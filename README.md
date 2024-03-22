@@ -1,6 +1,6 @@
 # Data-Visualization-Project-about-Suicides-in-the-World
 
-The purpose of this report is not to understand why people are led to take
+The purpose of this project is not to understand why people are led to take
 their own lives, but to study how this phenomenon varies across the world and
 if there are predominantly factors, such as wealth index and unemployment
 rate, to take in consideration.
